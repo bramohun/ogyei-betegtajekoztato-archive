@@ -16,6 +16,3 @@ A legfrissebb, teljes HTML archívum közvetlenül letölthető az alábbi hivat
 
 - **Tartalom:** Több mint 7 800 önálló, beágyazott képekkel ellátott betegtájékoztató HTML dokumentum.
 - **Frissítési gyakoriság:** Rendszeresen, a heti hivatalos NNGYK/OGYÉI adatbázis-szinkronizációt követően.
-- **Interaktív kereső weboldal:** [https://bt.uneb.hu](https://bt.uneb.hu)
-- **Fejlesztői API:** [Swagger UI Dokumentáció](https://bt.uneb.hu/swagger.html)
-- **Hivatalos forrás:** [NNGYK Gyógyszeradatbázis](https://ogyei.gov.hu/gyogyszeradatbazis)
